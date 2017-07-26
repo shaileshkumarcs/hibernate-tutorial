@@ -29,10 +29,10 @@
     </session-factory>
   ```
   - This is the basic configuration of hibernate project.
-Finally you can download you this material and import in your **Eclipse IDE** and Enjoy with  **HIBERNATE BASIC CURD OPERATION**
+  
+-Finally you can download this material and import in your **Eclipse IDE** and Enjoy with this  **HIBERNATE BASIC CURD OPERATION**.
 
-
-##THANKS FOR YOUR PATIENCE
+#THANKS FOR YOUR PATIENCE.
 
    [df1]: <http://hibernate.org/orm/>
    [df2]: <https://github.com/shaileshkumarcs/hibernate-tutorial/tree/master/Hibernate-tutorial/bin/>
