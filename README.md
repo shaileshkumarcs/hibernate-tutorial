@@ -29,8 +29,7 @@
     </session-factory>
   ```
   - This is the basic configuration of hibernate project.
-  
--Finally you can download this material and import in your **Eclipse IDE** and Enjoy with this  **HIBERNATE BASIC CURD OPERATION**.
+ - Finally you can download this material and import in your **Eclipse IDE** and Enjoy with this  **HIBERNATE BASIC CURD OPERATION**.
 
 #THANKS FOR YOUR PATIENCE.
 
